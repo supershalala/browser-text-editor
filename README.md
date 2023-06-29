@@ -5,6 +5,9 @@
 # Simple Text Editor
 
 
+# Link to Live Site
+
+https://supershalala-text-editor-6d8b956f6a55.herokuapp.com/
 
 
 ## Description
@@ -13,8 +16,7 @@
 
 ### Why
 - Wanted to build a simple PWA that could be installed on a device and push and get from browser db
-### Problem this app solves
-- 
+
 ### Learnings
 - Learnt bout PWA's, as well as the necesssary folder structure for client and server side projects.
 
@@ -39,7 +41,7 @@ Install all necessary packages in each folder. Then in the root develop folder r
 
 ### Screenshot 
 
-![Screenshot of app running](./assets/images)
+![Screenshot of app running](./assets/imgs/screenshot.png)
 
 
 
