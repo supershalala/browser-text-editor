@@ -35,7 +35,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'Simple Text Editor',
-        short_name: 'Text-Edot',
+        short_name: 'Text-Edit',
         description: 'Just another text editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
